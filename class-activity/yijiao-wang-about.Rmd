@@ -1,0 +1,12 @@
+---
+title: "yijiao-wang-about"
+output: pdf_document
+date: "2023-10-11"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## About me 
+I'm really into cats!!
